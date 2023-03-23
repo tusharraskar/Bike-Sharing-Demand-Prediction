@@ -151,15 +151,13 @@ Steps performed:
 Regression Model: Final Summary
 
 * On Train Dataset
-<p align="left" width="100%">
-    <img width="70%" src="https://user-images.githubusercontent.com/90998859/214132978-adde8fde-7dac-40cd-b106-5039b92cf614.png">
+
     
 </p>
 
 
 * On Test Dataset
-<p align="left" width="100%">
-    <img width="70%" src="https://user-images.githubusercontent.com/90998859/214133213-2e855949-6f5f-450e-ace2-8b361891391e.png">
+
     
 </p>
 
@@ -168,7 +166,7 @@ Regression Model: Final Summary
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Vikas Chaudhary > | Data Science Enthusiast
+< Tushar Raskar > | Data Science Enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations and Research</i></p>
 
